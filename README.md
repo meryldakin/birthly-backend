@@ -30,3 +30,7 @@ Friend
 - birth month
 - birth day
 - birth year
+
+Want to add:
+- Edit functionality
+- Add Gift model so you can add gift ideas you want to give these people
